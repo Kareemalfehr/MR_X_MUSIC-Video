@@ -186,7 +186,7 @@ async def alive(client: Client, message: Message):
 
             [
 
-                InlineKeyboardButton("𓌹●↯•ᴅᴇᴠ ᴍʀ_х•↯●𓌺", url=f"https://t.me/MR_X_N"),
+                InlineKeyboardButton("𓌹●↯•ᴅᴇᴠ ᴍʀ_х•↯●𓌺", url=f"https://t.me/MUSTAR_X"),
 
             ],
 
