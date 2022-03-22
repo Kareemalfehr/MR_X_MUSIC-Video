@@ -152,7 +152,7 @@ async def start_(client: Client, message: Message):
 
                     InlineKeyboardButton(
 
-                        "𓌹●↯•ᴅᴇᴠ ᴍʀ_х•↯●𓌺", url="https://t.me/MR_X_N"
+                        "𓌹●↯•ᴅᴇᴠ ᴍʀ_х•↯●𓌺", url="https://t.me/MUSTAR_X"
 
                     )
 
@@ -168,7 +168,7 @@ async def start_(client: Client, message: Message):
 
 @Client.on_message(
 
-    command(["برمج السورس", f"ؤمن", f"ورس", f"لسورس", f"ادو", f"اضو"]) & filters.group & ~filters.edited
+    command(["برمج السورس", f"ؤمن", f"ورس", f"لسورس", f"ادو",f"اكس"]) & filters.group & ~filters.edited
 
 )
 
@@ -194,7 +194,7 @@ async def alive(client: Client, message: Message):
 
                 InlineKeyboardButton(
 
-                    "𝑀𝑅 𝑋 🖤", url=f"https://t.me/MR_X_N_2"
+                    "𝑀𝑅 𝑋 🖤", url=f"https://t.me/MUSTAR_X"
 
                 ),
 
@@ -210,7 +210,7 @@ async def alive(client: Client, message: Message):
 
     )
 
-    alive = f"ᴘʀᴏɢʀᴀᴍᴍᴇʀ [ᴍʀ_х](https://t.me/MR_X_N) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼"
+    alive = f"ᴘʀᴏɢʀᴀᴍᴍᴇʀ [ᴍʀ_х](https://t.me/MUSTAR_X) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼"
 
     await message.reply_photo(
 
