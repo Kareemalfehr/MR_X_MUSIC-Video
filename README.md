@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<a href="https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/music_mr_x"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" width="250""/</a>  
+<a href="[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/MR_X_MUSIC-Video)"/</a>  
 
 # Credits
 
