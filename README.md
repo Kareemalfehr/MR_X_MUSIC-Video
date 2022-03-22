@@ -52,7 +52,7 @@
 
 <h2 align="center">
 
-   Other Deployment Methods
+   Deploy
 
 </h2>
 
