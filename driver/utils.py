@@ -18,7 +18,7 @@ keyboard = InlineKeyboardMarkup(
     [
             [
                 InlineKeyboardButton(text="• الـقـائـمـه♪", callback_data="cbmenu"),
-                InlineKeyboardButton("• الـتـحـديـثـات♪",url=f"https://t.me/MUSTAR_X1"),
+                InlineKeyboardButton("• الـتـحـديـثـات♪",url=f"https://t.me/CH_G6"),
             ],
             [
                 InlineKeyboardButton(
