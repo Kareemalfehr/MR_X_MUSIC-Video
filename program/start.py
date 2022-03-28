@@ -210,7 +210,7 @@ async def alive(client: Client, message: Message):
 
     )
 
-    alive = f"ᴘʀᴏɢʀᴀᴍᴍᴇʀ [𝙀𝙇𝙅𝙊𝙆𝙀𝙍](https://t.me/Elj_oker) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼"
+    alive = f"ᴘʀᴏɢʀᴀᴍᴍᴇʀ [𝙀𝙇𝙅𝙊𝙆𝙀𝙍](https://t.me/Elj_oker1) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼"
 
     await message.reply_photo(
 
